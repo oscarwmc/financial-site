@@ -1,0 +1,25 @@
+site_name: 財報網站
+theme:
+  name: mkdocs
+nav:
+  - 首頁: index.md
+  - Company A:
+      - Q1: CompanyA/Q1.md
+      - Q2: CompanyA/Q2.md
+      - Q3: CompanyA/Q3.md
+      - Q4: CompanyA/Q4.md
+  - Company B:
+      - Q1: CompanyB/Q1.md
+      - Q2: CompanyB/Q2.md
+      - Q3: CompanyB/Q3.md
+      - Q4: CompanyB/Q4.md
+  - Company C:
+      - Q1: CompanyC/Q1.md
+      - Q2: CompanyC/Q2.md
+      - Q3: CompanyC/Q3.md
+      - Q4: CompanyC/Q4.md
+  - Company D:
+      - Q1: CompanyD/Q1.md
+      - Q2: CompanyD/Q2.md
+      - Q3: CompanyD/Q3.md
+      - Q4: CompanyD/Q4.md
